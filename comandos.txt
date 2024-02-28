@@ -1,0 +1,36 @@
+En este archivo se van a encontrar todos los comandus necesarios 
+Y utilizados en el curso de Git y Gihub de Lucas Dalto
+
+
+
+
+COMANDOS DE CONTROL DE COSNOLA
+
+ls // Lista de archivos de un repositorio
+cd // avanzar a un archivo del repositorio
+cd .. // retorceder en los archivos
+pwd // nos muestra la ubicacion en los archivos
+touch // crea un archivo desde la COSNOLA
+mkdir // crea un repositorio 
+rmdir // elimina un repositorio 
+
+COMANDOS BASICOS DE MANEJO DE REPOSITORIOS
+
+git add // prepara un archivo para hacer commit
+git add . // prepara todos los archivos disponibles
+git status -s // nos dice en una linea si hay archivos con cmabios 
+git commit // sube los cambios al repositorio 
+
+git restore // restaura cambios en el area de trabajo o en el repositorio
+git checkout // restaura cambios en el  repositiroio
+git reset // restaura cambios en la zona de trabajo
+
+git log // ver historial de commits
+git log --oneline // ver historial de commits optimizado
+git log-simple // ver historial de commits boosteado
+
+git diff --word-diff hash 1 has 2 // Muestra solo las diferencias de dos verciones
+
+
+
+
