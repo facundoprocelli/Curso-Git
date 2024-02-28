@@ -1,0 +1,77 @@
+* [33mcommit 2c7a15327ec07cda8d0aebe3a2e9738bbaffeb65[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: Facundo Procelli <facundoprocelli@gmail.com>
+[31m|[m Date:   Wed Feb 28 12:44:03 2024 -0300
+[31m|[m 
+[31m|[m     modifique el main
+[31m|[m 
+* [33mcommit 7ff29370b636e3f7160179a410a1580792242d12[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 12:42:24 2024 -0300
+[31m|[m 
+[31m|[m     Update listas.h
+[31m|[m 
+* [33mcommit 34996738d34d2e579603f91bf44c985fa1f56bbc[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 12:42:01 2024 -0300
+[31m|[m 
+[31m|[m     Agrege la funcion restar
+[31m|[m 
+* [33mcommit 64ee9ff93d3c859783a7d1da9d3d2f5a69fc59fa[m
+[31m|[m Author: Facundo Procelli <facundoprocelli@gmail.com>
+[31m|[m Date:   Wed Feb 28 12:40:08 2024 -0300
+[31m|[m 
+[31m|[m     agrege las libreris de listas y la funcion sumar
+[31m|[m 
+* [33mcommit 44632bfe8ef447472523421e8a0f4fd33d8fd7a1[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 12:28:52 2024 -0300
+[31m|[m 
+[31m|[m     Update main.c
+[31m|[m 
+* [33mcommit ad55a38b76d4ce3f6069a3f1fa32cb18f8ce25f1[m
+[31m|[m Author: Facundo Procelli <facundoprocelli@gmail.com>
+[31m|[m Date:   Wed Feb 28 12:27:28 2024 -0300
+[31m|[m 
+[31m|[m     agregando los primeros archivos del poryecto c
+[31m|[m 
+* [33mcommit b3a03648b783b9f72f06a3cacc963450715dbea3[m
+[31m|[m Author: Facundo Procelli <facundoprocelli@gmail.com>
+[31m|[m Date:   Wed Feb 28 12:07:40 2024 -0300
+[31m|[m 
+[31m|[m     arreglando codigo de py
+[31m|[m 
+* [33mcommit 51034a8cfa8dffa240baea54c8e178a3c298aca0[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 12:06:29 2024 -0300
+[31m|[m 
+[31m|[m     Create Codigo3.py
+[31m|[m 
+* [33mcommit d17f8e70eaf22c145a211d884925825afe632971[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 11:59:55 2024 -0300
+[31m|[m 
+[31m|[m     Creando saludo en python
+[31m|[m 
+* [33mcommit b1f0e6f8182bba78cbb5907509ea6dd5c29cc635[m
+[31m|[m Author: Facundo Procelli <facundoprocelli@gmail.com>
+[31m|[m Date:   Wed Feb 28 11:52:15 2024 -0300
+[31m|[m 
+[31m|[m     cambiando el texto
+[31m|[m 
+* [33mcommit 04505492a7e92497022320efcfe863d2780483a5[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 11:41:09 2024 -0300
+[31m|[m 
+[31m|[m     Create hola.txt
+[31m|[m 
+* [33mcommit d763bce7dd32761ea467cfb0576774cd88005a1f[m
+[31m|[m Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+[31m|[m Date:   Wed Feb 28 11:30:52 2024 -0300
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m 
+* [33mcommit 2a722dc6ac23d33f2affecdfe0507cb776c64143[m
+  Author: facundoprocelli <128741375+facundoprocelli@users.noreply.github.com>
+  Date:   Wed Feb 28 11:29:20 2024 -0300
+  
+      Initial commit
