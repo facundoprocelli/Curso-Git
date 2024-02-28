@@ -13,6 +13,9 @@ int main()
     int d = restar(b, a);
     printf("%i", d);
 
+    int x = dividir(a,b);
+    printf("%i", x);
+
     printf("Hello world!\n");
     return 0;
 }

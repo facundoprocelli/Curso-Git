@@ -14,3 +14,10 @@ int c = a - b;
     return c;
 
 }
+
+int dividir(int a, int b)
+{
+int c = a/b;
+return c;
+
+}
