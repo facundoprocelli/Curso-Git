@@ -8,8 +8,11 @@ int main()
     int b = 2;
 
     int c = suma(a, b);
-    
     printf("%i", c);
+
+    int d = restar(b, a);
+    printf("%i", d);
+
     printf("Hello world!\n");
     return 0;
 }
