@@ -68,7 +68,9 @@ CONECTAR REPOSITORIOS
 
 git clone u-r-l // clona un repositorio de github con su url
 
+GITIGNORE
 
+git config --global core.excludesfile ~/.gitignore_global
 
 
 
