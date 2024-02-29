@@ -30,6 +30,20 @@ git log --oneline // ver historial de commits optimizado
 git log-simple // ver historial de commits boosteado
 
 git diff --word-diff hash 1 has 2 // Muestra solo las diferencias de dos verciones
+git commit --amend // modifica el ultimo commit
+git reset --soft hash // borra todos los commits hasta el hash puesto
+
+
+RAMAS
+
+git branch // nos muestra las ramas disponibles
+git branch nombre-branch // crea un nuevo branch con ese nombre
+git switch nombre-branch // Se mueve a ese branch 
+git switch -c nombre-branch // crea un nuevo branch y se mueve a ese
+git branch -d nombre-branch // borra ramas
+git branch -m nombre-branch nuevo-nombre // Cambia el nombre de la rama 
+git branch -m nuevo.-nombre // cambia el nombre de la misma rama 
+
 
 
 
