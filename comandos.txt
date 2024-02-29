@@ -19,19 +19,30 @@ COMANDOS BASICOS DE MANEJO DE REPOSITORIOS
 git add // prepara un archivo para hacer commit
 git add . // prepara todos los archivos disponibles
 git status -s // nos dice en una linea si hay archivos con cmabios 
-git commit // sube los cambios al repositorio 
+git status -v // nos dice los cambios en las lineas 
+git commit // sube los cambios al repositorio
+git commit -am "mensaje " // Hace el commit desde consola con un mensaje  
+git pull // trae los archivos modificados en el repositiroio
+git push // Envia los cambios al repositiroio
+git fetch // baja solo los cmabios pero no los une
 
 git restore // restaura cambios en el area de trabajo o en el repositorio
 git checkout // restaura cambios en el  repositiroio
 git reset // restaura cambios en la zona de trabajo
 
+VER COMMITS E HISTORIAL 
+
 git log // ver historial de commits
 git log --oneline // ver historial de commits optimizado
 git log-simple // ver historial de commits boosteado
+git log --oneline --all // Muestra todos los commits
+git reflog // Muestra todos los commits de la historia 
+
+TRABAJAR CON COMMITS
 
 git diff --word-diff hash 1 has 2 // Muestra solo las diferencias de dos verciones
-git commit --amend // modifica el ultimo commit
 git reset --soft hash // borra todos los commits hasta el hash puesto
+git commit --amend // modifica el ultimo commit
 
 
 RAMAS
@@ -42,7 +53,21 @@ git switch nombre-branch // Se mueve a ese branch
 git switch -c nombre-branch // crea un nuevo branch y se mueve a ese
 git branch -d nombre-branch // borra ramas
 git branch -m nombre-branch nuevo-nombre // Cambia el nombre de la rama 
-git branch -m nuevo.-nombre // cambia el nombre de la misma rama 
+git branch -m nuevo-nombre // cambia el nombre de la misma rama 
+
+git merge nombre-branch // fuciona la rama escrita en la actual 
+git rest --hard branch a volver // resetea el merge 
+git merge --continue // cuando se soluciona un porblmea de merge, va esto
+
+
+CONFIGURACIONES 
+
+git config --global alias.nombre-alias "comandos" // Crear "funciones" o comandos
+
+CONECTAR REPOSITORIOS
+
+git clone u-r-l // clona un repositorio de github con su url
+
 
 
 
